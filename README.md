@@ -20,9 +20,8 @@ Este proyecto consiste en un programa en Python que utiliza Selenium para automa
     - Abre múltiples pestañas con diferentes proxies para aumentar las vistas.
     - Espera a que el usuario presione Enter antes de cerrar el programa.
 
-## Uso Responsable
-
-Es importante señalar que el uso de este tipo de herramientas para inflar artificialmente las vistas en Twitch puede violar los términos de servicio de la plataforma y tener consecuencias negativas para el canal y el usuario. Se recomienda encarecidamente cumplir con las políticas y términos de servicio de Twitch.
+> [!CAUTION]
+> Es importante señalar que el uso de este tipo de herramientas para inflar artificialmente las vistas en Twitch puede violar los términos de servicio de la plataforma y tener consecuencias negativas para el canal y el usuario. Se recomienda encarecidamente cumplir con las políticas y términos de servicio de Twitch.
 
 ## Instrucciones de Uso
 
