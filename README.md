@@ -1,4 +1,6 @@
-# apiTwitch
+<p align="center">
+  <b>apiTwitch</b>
+</p>
 
 
 # Twitch Viewer Bot
