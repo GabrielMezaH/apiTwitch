@@ -38,5 +38,5 @@ Es importante señalar que el uso de este tipo de herramientas para inflar artif
    - Este proyecto está sujeto a derechos de autor y se proporciona bajo la licencia especificada en el código. Lee el aviso de derechos de autor y la licencia antes de utilizar el software.
 
 ---
-
-**Nota:** El uso responsable y ético de esta herramienta es fundamental para evitar posibles consecuencias negativas.
+> [!NOTE]
+> El uso responsable y ético de esta herramienta es fundamental para evitar posibles consecuencias negativas.
